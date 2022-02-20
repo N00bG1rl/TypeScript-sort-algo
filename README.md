@@ -1,1 +1,1 @@
-# TypeScript-sort-algo
+# TypeScript Bubble Sort Algo
